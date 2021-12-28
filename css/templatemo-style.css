@@ -81,7 +81,7 @@ hr {
 
 /* START HOME */
 .templatemo-home {
-  background: url('../images/home-bg.jpg');
+  background: url('../images/bg2.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
@@ -119,6 +119,7 @@ hr {
   padding: 15px 50px;
   -webkit-transition: all 0.6s ease-in;
           transition: all 0.6s ease-in;
+        
 }
 .tm-view-more-btn:hover {
   background: #ffffff;
@@ -354,7 +355,7 @@ hr {
 }
 .facebook { background: #3b5998; }
 .twitter { background: #55acee; }
-.pinterest { background: #cc2127; }
+.pinterest { background: #C13584; }
 .media {
   padding: 80px 40px 80px 40px;
   -webkit-transition: all 0.6s ease-in;
